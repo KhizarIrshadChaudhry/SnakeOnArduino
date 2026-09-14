@@ -1,5 +1,6 @@
 # Snake On Arduino - An Arduino Based Snake Game
 ![til](./content/arduino.gif)
+
 This project developed the classical Snake game on a 8x8 LED Matrix. The project was one of the many projects in the Technology B (Teknologi B) subject at Danish high school (HTX).
 The project was given the grade 12 (A).
 
